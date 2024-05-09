@@ -9,7 +9,7 @@ const WETH_ADDRESS = "0x94373a4919b3240d86ea41593d5eba789fef3848";
 // prettier-ignore
 const USDC_WETH_03_POOL = "0x19142d76ba1be93652a4db48b6b0d2349c44907c";
 
-const STABLE_IS_TOKEN0 = "true" as string; // [DAVID]
+const STABLE_IS_TOKEN0 = "true" as string;
 
 // token where amounts should contribute to tracked volume and liquidity
 // usually tokens that many tokens are paired with s

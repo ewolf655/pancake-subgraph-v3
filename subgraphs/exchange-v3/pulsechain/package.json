@@ -1,5 +1,5 @@
 {
-  "name": "exchange-v3-template",
+  "name": "exchange-v3-pulsechain",
   "description": "PancakeSwap Subgraph for Exchange V3",
   "version": "1.0.0",
   "repository": "git@github.com:pancakeswap/pancake-subgraph.git",
